@@ -18,6 +18,12 @@ a {
   font-size: 65px;
 }
 
+.btn-1 {
+  width: 175px;
+  align-content:center;
+  margin-left: 27px;
+}
+
 .lead {
   font-size: 25px;
 }
@@ -72,6 +78,12 @@ a {
 }
 
 @media screen and (min-width: 480px) {
+  
+.btn-1 {
+  width: 175px;
+  align-content:center;
+  margin-left: 200px;
+}
 
 .prof-avatar, .navbar-brand, .nav-link, .contact, .icon, .prof-pic, .text-div, .sec-img, .artpic1, .card-img-top, .btn-1 { 
   transition: all .8s ease-in-out; 
